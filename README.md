@@ -12,6 +12,7 @@
    - ~~Define network structure~~
    - ~~Execute the model~~
    - ~~Visualize model improvements~~
+   - ~~Visualize confusion matrix~~
    - ~~Add epoch configuration~~
 
 - OTHERS [OPTIONAL]
